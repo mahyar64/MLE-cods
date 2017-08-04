@@ -7,3 +7,11 @@ to be able to use it in android mobile platform, we have to use NDK (Native Deve
 to be embedded in android SDK platform. This Machine Learning Engine is extensible to be more general.
 Android propose Java Native Interface (jni) framework is used in this project that enables Java code running 
 in a Java Virtual Machine (JVM) to call and be called by native applications such as c and C++. 
+
+#Implementation platform:
+This project has been implemented on both Android Studio 2.3.3 and Eclipse. However this files have been 
+imported from android studio. My recomandation is to use Android studio to implement the project.
+
+
+
+
