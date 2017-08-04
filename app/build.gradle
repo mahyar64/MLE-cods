@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "26.0.0"
+
+    defaultConfig {
+        applicationId "com.example.hellojni"
+        minSdkVersion 3
+        targetSdkVersion 3
+
+        ndk {
+            moduleName "hello-jni"
+        }
+
+        testApplicationId "com.example.hellojni.tests"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+/*
+    //I added to solve problem from stackoverflow
+    sourceSets {
+        main {
+            jni.srcDirs = []
+        }
+    }
+
+//ta inja https://stackoverflow.com/questions/40065871/error-your-project-contains-c-files-but-it-is-not-using-a-supported-native-bu  */
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    externalNativeBuild {
+        ndkBuild {
+            path 'src/main/jni/Android.mk'
+        }
+    }
+}

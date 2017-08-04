@@ -1,0 +1,7 @@
+#Mon Jul 24 09:35:45 GMT+01:00 2017
+base.0=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_681af4e074e26ce52a5fe5975b4be72bebbb421d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25851937fad77440ada30e3250fa5d333003ad49\\classes.dex
+base.1=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25851937fad77440ada30e3250fa5d333003ad49
+file.0=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_681af4e074e26ce52a5fe5975b4be72bebbb421d\\classes.dex

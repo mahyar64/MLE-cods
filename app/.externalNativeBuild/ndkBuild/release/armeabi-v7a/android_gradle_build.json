@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "C:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\Android.mk",
+    "C:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\mshahsav\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dC:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "hello-jni-release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\mshahsav\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dC:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\ndkBuild\\release\\lib C:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libhello-jni.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "hello-jni",
+      "files": [
+        {
+          "src": "C:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\FANN\\floatfann.c",
+          "flags": "\"-gcc-toolchain\" \"C:/Users/mshahsav/AppData/Local/Android/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi9\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IC:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/src/main/jni/FANN\" \"-IC:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/src/main/jni\" \"-DANDROID\" \"-D__ANDROID_API__\u003d14\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"C:/Users/mshahsav/AppData/Local/Android/sdk/ndk-bundle/build//../sysroot\" \"-isystem\" \"C:/Users/mshahsav/AppData/Local/Android/sdk/ndk-bundle/build//../sysroot/usr/include/arm-linux-androideabi\""
+        },
+        {
+          "src": "C:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\src\\main\\jni\\hello-jni.c",
+          "flags": "\"-gcc-toolchain\" \"C:/Users/mshahsav/AppData/Local/Android/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi9\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IC:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/src/main/jni/FANN\" \"-IC:/Users/mshahsav/AndroidStudioProjects/MLE-cods/app/src/main/jni\" \"-DANDROID\" \"-D__ANDROID_API__\u003d14\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"C:/Users/mshahsav/AppData/Local/Android/sdk/ndk-bundle/build//../sysroot\" \"-isystem\" \"C:/Users/mshahsav/AppData/Local/Android/sdk/ndk-bundle/build//../sysroot/usr/include/arm-linux-androideabi\""
+        }
+      ],
+      "output": "C:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libhello-jni.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cCompilerExecutable": "C:\\Users\\mshahsav\\AppData\\Local\\Android\\sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

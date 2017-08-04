@@ -1,0 +1,65 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* tests\
+* tests\.classpath
+* tests\.project
+* tests\.settings\
+* tests\.settings\org.eclipse.jdt.core.prefs
+* tests\bin\
+* tests\bin\AndroidManifest.xml
+* tests\bin\R.txt
+* tests\bin\classes\
+* tests\bin\classes\com\
+* tests\bin\classes\com\example\
+* tests\bin\classes\com\example\hellojni\
+* tests\bin\classes\com\example\hellojni\HelloJniTest.class
+* tests\bin\classes\com\example\hellojni\tests\
+* tests\bin\classes\com\example\hellojni\tests\BuildConfig.class
+* tests\bin\classes\com\example\hellojni\tests\R$attr.class
+* tests\bin\classes\com\example\hellojni\tests\R$string.class
+* tests\bin\classes\com\example\hellojni\tests\R.class
+* tests\bin\jarlist.cache
+* tests\gen\
+* tests\gen\com\
+* tests\gen\com\example\
+* tests\gen\com\example\hellojni\
+* tests\gen\com\example\hellojni\tests\
+* tests\gen\com\example\hellojni\tests\BuildConfig.java
+* tests\gen\com\example\hellojni\tests\R.java
+* tests\project.properties
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* jni\ => app\src\main\jni\
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* tests\res\ => app\src\androidTest\res
+* tests\src\ => app\src\androidTest\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

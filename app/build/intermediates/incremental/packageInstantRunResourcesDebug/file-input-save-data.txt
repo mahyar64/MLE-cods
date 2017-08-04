@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Fri Jul 21 14:07:39 GMT+01:00 2017
+1.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml

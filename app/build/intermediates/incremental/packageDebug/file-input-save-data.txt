@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Jul 24 09:35:45 GMT+01:00 2017
+2.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+6.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_681af4e074e26ce52a5fe5975b4be72bebbb421d
+7.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libhello-jni.so
+7.set=NATIVE_RESOURCE
+count=9
+0.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25851937fad77440ada30e3250fa5d333003ad49\\classes.dex
+5.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\mips\\libhello-jni.so
+4.set=DEX
+6.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libhello-jni.so
+1.set=NATIVE_RESOURCE
+7.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+2.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25851937fad77440ada30e3250fa5d333003ad49
+8.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+3.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libhello-jni.so
+3.set=NATIVE_RESOURCE
+1.base=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+4.file=C\:\\Users\\mshahsav\\AndroidStudioProjects\\MLE-cods\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_681af4e074e26ce52a5fe5975b4be72bebbb421d\\classes.dex
+8.set=NATIVE_RESOURCE
+0.set=DEX
